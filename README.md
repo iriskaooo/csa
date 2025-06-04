@@ -1,1 +1,3 @@
 # csa
+## Academics
+competition
