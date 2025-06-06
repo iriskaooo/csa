@@ -1,4 +1,4 @@
-
+![Image](https://github.com/user-attachments/assets/e730d6e7-bc00-4136-8ddb-5b70ca0eb19f)
 # Communication Effectiveness and Respect: Analyzing the Impact of Acoustic Features on Voice Preferences of Elderly Adults
 ## Keywords: Elders, Voice Preference, Praat, Acoustics
 The 3rd High School Language Science Fair in Taiwan:
