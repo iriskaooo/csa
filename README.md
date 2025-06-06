@@ -14,7 +14,7 @@
 
 ## 2. Why Judy Sounds Older in English but Younger in Mandarin: The Influence of Acoustic Features on Human Perceptions of Movie Dubbing
 ### Keywords: Praat, Acoustics, Movie Dubbings, Perception
-
+![Image](https://github.com/user-attachments/assets/71e482ad-f602-4c58-aab0-093f8a3f6081)
 <ins>Project:<ins>
 * [Poster](https://drive.google.com/open?id=1KZYafD0bvvfoqDVU06RipeP0NRY-TZqW&usp=drive_copy)
 * [Essay](https://drive.google.com/open?id=1va2mo0IG6EmKjFemJ3zVMUj376l7s-Xc&usp=drive_copy)\
