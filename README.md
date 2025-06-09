@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/e730d6e7-bc00-4136-8ddb-5b70ca0eb19f)
 # Linguistics
-## 1. Communication Effectiveness and Respect: Analyzing the Impact of Acoustic Features on Voice Preferences of Elderly Adults
+## Essay 1: Communication Effectiveness and Respect: Analyzing the Impact of Acoustic Features on Voice Preferences of Elderly Adults
 ### Keywords: Elders, Voice Preference, Praat, Acoustics
 ![Image](https://github.com/user-attachments/assets/71e482ad-f602-4c58-aab0-093f8a3f6081)
 <ins>Project:<ins>
@@ -12,7 +12,7 @@
 * 3rd Taiwan Linguistics Olympiad Language Science Fair: Bronze
 * Phonetics 2025 Hong Kong Conference
 
-## 2. Why Judy Sounds Older in English but Younger in Mandarin: The Influence of Acoustic Features on Human Perceptions of Movie Dubbing
+## Essay 2: Why Judy Sounds Older in English but Younger in Mandarin: The Influence of Acoustic Features on Human Perceptions of Movie Dubbing
 ### Keywords: Praat, Acoustics, Movie Dubbings, Perception
 ![Image](https://github.com/user-attachments/assets/7b4aaa40-cc96-49f8-bfa3-0536f4a9be34)
 <ins>Project:<ins>
@@ -21,3 +21,28 @@
 
 <ins>Awards:<ins>
 * 2nd Taiwan Linguistics Olympiad Language Science Fair: Bronze
+
+## Terra Anatomy Magazine
+
+## Other Competitions and Activities:
+* May 2023 Linguistics Puzzle Taiwan: Bronze
+* April 2024 Asia Pacific Linguistics Olympiad: Contestant
+* May 2024 Linguistics Puzzle Taiwan: Volunteer
+* April 2025 Asia Pacific Linguistics Olympiad: Contestant
+  
+ # Music
+ ## Taipei Philharmonic Youth and Children's Choir
+ ### grade 3 ~ present
+ * 2022 Taipei International Choral Festival
+ * 2023 InCanto Mediterraneo International Choral Festival: Gold
+ * 2023 Musica Eterna Roma International Choir Festival & Competition: Winner of Category
+ * 2023 Toscana Music Festival
+ * 2024 International Choral Competition Gallus: Gold
+ * 2024 International Festival Chorus Inside Croatia: Gold
+
+ ## Piano
+ ### kindergarten ~ present
+ * 2022 Elevato Stanza Junior Piano Competition
+ * 2022 Hamamatsu International Piano Competition: Bronze
+ * 2023 New Taipei City Student Music Competition: Honorable Mention
+ * 2024 Associated Board of the Royal Schools of Music: Grade 8
