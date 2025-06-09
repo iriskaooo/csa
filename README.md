@@ -23,6 +23,10 @@
 * 2nd Taiwan Linguistics Olympiad Language Science Fair: Bronze
 
 ## Terra Anatomy Magazine
+### Head of Editors
+* Wrote and refined articles in scientific, environmental, technological, and medical fields to a diverse audience of students and young enthusiasts
+* Raised awareness and educated individuals about STEM topics
+* Exhibited my leadership, communication, and analytical skills while collecting articles from writers, contacting the editors, reminding each member of the deadlines, and reviewing the papers before publication  
 
 ## Other Competitions and Activities:
 * May 2023 Linguistics Puzzle Taiwan: Bronze
