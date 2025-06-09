@@ -12,7 +12,7 @@
 * 3rd Taiwan Linguistics Olympiad Language Science Fair: Bronze
 * Phonetics 2025 Hong Kong Conference
 
-## Essay 2: Why Judy Sounds Older in English but Younger in Mandarin: The Influence of Acoustic Features on Human Perceptions of Movie Dubbing
+## 1. Essay 2: Why Judy Sounds Older in English but Younger in Mandarin: The Influence of Acoustic Features on Human Perceptions of Movie Dubbing
 ### Keywords: Praat, Acoustics, Movie Dubbings, Perception
 ![Image](https://github.com/user-attachments/assets/7b4aaa40-cc96-49f8-bfa3-0536f4a9be34)
 <ins>Project:<ins>
