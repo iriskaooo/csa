@@ -1,4 +1,4 @@
-# Linguistics
+# Language and Linguistics
 ## Essay 1: Communication Effectiveness and Respect: Analyzing the Impact of Acoustic Features on Voice Preferences of Elderly Adults
 ### Keywords: Elders, Voice Preference, Praat, Acoustics
 ![Image](https://github.com/user-attachments/assets/71e482ad-f602-4c58-aab0-093f8a3f6081)
@@ -37,6 +37,7 @@
  # Music
  ## Taipei Philharmonic Youth and Children's Choir
  ### grade 3 ~ present
+ ![Image](https://github.com/user-attachments/assets/79aef12b-77d1-49e3-9c9c-0b9d6b62aa2e)
  * 2022 Taipei International Choral Festival
  * 2023 InCanto Mediterraneo International Choral Festival: Gold
  * 2023 Musica Eterna Roma International Choir Festival & Competition: Winner of Category
