@@ -32,8 +32,7 @@
 * April 2024 Asia Pacific Linguistics Olympiad: Contestant
 * May 2024 Linguistics Puzzle Taiwan: Volunteer
 * April 2025 Asia Pacific Linguistics Olympiad: Contestant
-
-
+  
  # Music
  ## Taipei Philharmonic Youth and Children's Choir
  ### grade 3 ~ present
