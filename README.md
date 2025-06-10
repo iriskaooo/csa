@@ -47,7 +47,7 @@
 
  ## Piano
  ### kindergarten ~ present
- ![Image](https://github.com/user-attachments/assets/61b7064d-3e28-4ac1-bfff-1eaeff4969d3)
+![Image](https://github.com/user-attachments/assets/f9758d29-7def-4795-be39-e947eb790593)
  * 2022 Elevato Stanza Junior Piano Competition
  * 2022 Hamamatsu International Piano Competition: Bronze
  * 2023 New Taipei City Student Music Competition: Honorable Mention
