@@ -27,7 +27,7 @@
 * Raised awareness and educated individuals about STEM topics
 * Exhibited my leadership, communication, and analytical skills while collecting articles from writers, contacting the editors, reminding each member of the deadlines, and reviewing the papers before publication  
 
-## Other Competitions and Activities:
+## Other
 * May 2023 Linguistics Puzzle Taiwan: Bronze
 * April 2024 Asia Pacific Linguistics Olympiad: Contestant
 * May 2024 Linguistics Puzzle Taiwan: Volunteer
