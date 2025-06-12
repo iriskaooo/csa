@@ -32,7 +32,7 @@
 * April 2024 Asia Pacific Linguistics Olympiad: Contestant
 * May 2024 Linguistics Puzzle Taiwan: Volunteer
 * April 2025 Asia Pacific Linguistics Olympiad: Contestant
-  
+
  # Music
  ## Taipei Philharmonic Youth and Children's Choir
  ### grade 3 ~ present
@@ -43,7 +43,7 @@
  * 2023 Toscana Music Festival
  * 2024 International Choral Competition Gallus: Gold
  * 2024 International Festival Chorus Inside Croatia: Gold
-
+   
  ## Piano
  ### kindergarten ~ present
 ![Image](https://github.com/user-attachments/assets/f9758d29-7def-4795-be39-e947eb790593)
