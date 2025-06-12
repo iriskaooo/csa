@@ -33,21 +33,21 @@
 * May 2024 Linguistics Puzzle Taiwan: Volunteer
 * April 2025 Asia Pacific Linguistics Olympiad: Contestant
 
- # Music
- ## Taipei Philharmonic Youth and Children's Choir
- ### grade 3 ~ present
- ![Image](https://github.com/user-attachments/assets/79aef12b-77d1-49e3-9c9c-0b9d6b62aa2e)
- * 2022 Taipei International Choral Festival
- * 2023 InCanto Mediterraneo International Choral Festival: Gold
- * 2023 Musica Eterna Roma International Choir Festival & Competition: Winner of Category
- * 2023 Toscana Music Festival
- * 2024 International Choral Competition Gallus: Gold
- * 2024 International Festival Chorus Inside Croatia: Gold
+# Music
+## Taipei Philharmonic Youth and Children's Choir
+### grade 3 ~ present
+![Image](https://github.com/user-attachments/assets/79aef12b-77d1-49e3-9c9c-0b9d6b62aa2e)
+* 2022 Taipei International Choral Festival
+* 2023 InCanto Mediterraneo International Choral Festival: Gold
+* 2023 Musica Eterna Roma International Choir Festival & Competition: Winner of Category
+* 2023 Toscana Music Festival
+* 2024 International Choral Competition Gallus: Gold
+* 2024 International Festival Chorus Inside Croatia: Gold
    
- ## Piano
- ### kindergarten ~ present
+## Piano
+### kindergarten ~ present
 ![Image](https://github.com/user-attachments/assets/f9758d29-7def-4795-be39-e947eb790593)
- * 2022 Elevato Stanza Junior Piano Competition
- * 2022 Hamamatsu International Piano Competition: Bronze
- * 2023 New Taipei City Student Music Competition: Honorable Mention
- * 2024 Associated Board of the Royal Schools of Music: Grade 8
+* 2022 Elevato Stanza Junior Piano Competition
+* 2022 Hamamatsu International Piano Competition: Bronze
+* 2023 New Taipei City Student Music Competition: Honorable Mention
+* 2024 Associated Board of the Royal Schools of Music: Grade 8
