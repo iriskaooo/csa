@@ -53,3 +53,15 @@
 * 2022 Hamamatsu International Piano Competition: Bronze
 * 2023 New Taipei City Student Music Competition: Honorable Mention
 * 2024 Associated Board of the Royal Schools of Music: Grade 8
+
+# STEM
+* Information Technology Specialist Certificate
+* Digital Volunteering Club: Vice President
+* National Ying Ming Chiao Tung University Supplementary Coursework - Big Data Project with Tableau
+* National Tsing Hua University Supplementary Coursework - Semiconductor Exploration Camp for High-School Makers
+
+# School Awards
+* 2020-2021 Certificate of Achievement: Top 10% in all subjects during the final examination
+* 2022 Honor Role: Year GPA achieves 4.2-4.4
+* 2022 Parliament Award: Second place in class based on the total score calculated over the three years in junior high
+* 2023 Summa Cum Laude: Year GPA achieves 4.5 or higher
